@@ -1,1 +1,1 @@
-create database skills_data_db;
+create database <DB_Name>;

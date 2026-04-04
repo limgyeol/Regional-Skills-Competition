@@ -1,4 +1,4 @@
-create EXTERNAL TABLE IF NOT EXISTS skills_data_db (
+create EXTERNAL TABLE IF NOT EXISTS <DB_name>.<TABLE_name> (
   `timestamp` string,
   `host` string,
   `port` int,
