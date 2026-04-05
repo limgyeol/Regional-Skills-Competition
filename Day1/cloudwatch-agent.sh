@@ -1,7 +1,7 @@
 #!/bin/bash
 dnf update -y
 dnf upgrade -y
-dnf install --allowerasing -y curl unzip vim amazon-cloudwatch-agent python3-pip
+dnf install --allowerasing -y jq curl wget unzip vim amazon-cloudwatch-agent python3-pip
 
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
