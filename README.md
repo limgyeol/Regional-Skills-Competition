@@ -12,3 +12,8 @@ https://ondaclouds.notion.site/RDS-IAM-Authentication-339675b40a348070bc4eda0110
 ```
 https://ondaclouds.notion.site/3-Tier-Architecture-on-Serverless-336675b40a3480b29e37db3442d44597?pvs=143
 ```
+
+Vscode Install
+```
+Korean Language Pack for Visual Studio Code, Helium Icon Theme
+```
